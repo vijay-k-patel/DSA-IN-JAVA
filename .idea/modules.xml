@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BibarySearch/BibarySearch.iml" filepath="$PROJECT_DIR$/BibarySearch/BibarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/BinarySearch.iml" filepath="$PROJECT_DIR$/Algorithms/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramJavaDSA.iml" filepath="$PROJECT_DIR$/ProgramJavaDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/queue.iml" filepath="$PROJECT_DIR$/Queue/queue.iml" />
+    </modules>
+  </component>
+</project>
