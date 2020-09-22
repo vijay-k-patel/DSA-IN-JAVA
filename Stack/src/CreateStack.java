@@ -5,8 +5,7 @@ public class CreateStack {
         if(top==3){
             System.out.println("Stack is Full");
         }else{
-            stack[top]=data;
-            top++;
+            stack[++top]=data;
         }
     }
     int pop(){
@@ -22,7 +21,7 @@ public class CreateStack {
     }
     int peek(){
          int data;
-         data=stack[top];
+         data=stack[top-1];
          return data;
     }
     int size(){
