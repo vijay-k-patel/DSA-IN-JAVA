@@ -28,7 +28,7 @@ public class CreateLinkedList {
     public void show(){
         Node node = head;
         while (node.next!=null){
-            System.out.println(node.data);
+            System.out.print(node.data+"->");
             node=node.next;
         }
         System.out.println(node.data);
