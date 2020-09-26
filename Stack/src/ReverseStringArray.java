@@ -17,7 +17,8 @@ public class ReverseStringArray {
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String str=scanner.nextLine();
+        //String str=scanner.nextLine();
+        String str="abc";
         str = reverse(str);
         System.out.println(str);
     }

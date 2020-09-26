@@ -16,13 +16,13 @@ public class BinarySearch {
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int [] arr={4, 401, 389, 221, 268, 384, 383, 280, 340};
+        int [] arr={4, 5, 6, 7, 1, 2, 3};
         int v=scanner.nextInt();//search value
         int ans=binarySearch(arr, 0, arr.length, v);
         if(ans==-1){
             System.out.println("Element is not present in Array");
         }else{
-            System.out.println("Bineary search Index: "+ans);
+            System.out.println("Binary search Index: "+ans);
         }
     }
 }
