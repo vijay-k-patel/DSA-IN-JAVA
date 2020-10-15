@@ -9,7 +9,6 @@ public class CreateLinkedList {
         }
     }
     public Node head;
-    public Node tail;
 
     public void addElement(int data){
         Node newNode=new Node(data);
@@ -40,9 +39,6 @@ public class CreateLinkedList {
         list.addElement(30);
         list.addElement(40);
         list.addElement(50);
-        list.addElement(60);
-        list.addElement(70);
-        list.addElement(70);
         list.show();
     }
 }
